@@ -1,0 +1,43 @@
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Debug\demo.exe.config
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Debug\veritabani.accdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Debug\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Debug\demo.pdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.Form1.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.rapor.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.yardim.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\RdlCompile.cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\RdlCompile.compiled
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.pdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.exe.config
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.exe
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.pdb
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\veritabani.accdb
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.exe
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.pdb
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.Form1.resources
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.rapor.resources
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.yardim.resources
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\RdlCompile.cache
+D:\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\RdlCompile.compiled
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.exe
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.pdb
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\veritabani.accdb
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.exe.config
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.exe
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\bin\x86\Debug\demo.pdb
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.csprojAssemblyReference.cache
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.Form1.resources
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.rapor.resources
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.yardim.resources
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.cache
+D:\Bilgisayar Programcılığı\153531032 (Salih Serkan Kara)\Proje Biçimi\153531032\demo\demo\obj\x86\Debug\demo.csproj.CopyComplete

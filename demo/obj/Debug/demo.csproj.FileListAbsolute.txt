@@ -1,0 +1,34 @@
+C:\Users\BILGISAYAR\Desktop\153531032\demo\demo\bin\Debug\demo.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\bin\Debug\demo.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\bin\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\bin\Debug\demo.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\153531032\demo\demo\obj\Debug\demo.pdb
+D:\sistem analizi\153531032\demo\demo\bin\Debug\demo.exe.config
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.exe
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.pdb
+D:\sistem analizi\153531032\demo\demo\bin\Debug\demo.exe
+D:\sistem analizi\153531032\demo\demo\bin\Debug\demo.pdb
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.Form1.resources
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\sistem analizi\153531032\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\Debug\demo.exe.config
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.pdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\Debug\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\Debug\demo.pdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.Form1.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.rapor.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\RdlCompile.cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\RdlCompile.compiled
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\Debug\veritabani.accdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\Debug\demo.yardim.resources

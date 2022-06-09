@@ -1,0 +1,14 @@
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Release\veritabani.accdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Release\demo.exe.config
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Release\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Release\demo.pdb
+D:\Sistem Analizi Ödevi\153531032\demo\demo\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.Form1.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.Properties.Resources.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.rapor.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.yardim.resources
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.csproj.GenerateResource.Cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\RdlCompile.cache
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\RdlCompile.compiled
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.exe
+D:\Sistem Analizi Ödevi\153531032\demo\demo\obj\x86\Release\demo.pdb
